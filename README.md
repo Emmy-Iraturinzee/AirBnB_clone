@@ -771,7 +771,4 @@ with patch('sys.stdout', new=StringIO()) as f:
 
 Otherwise, you will have to re-write the console by replacing `precmd` by `default`.
 
-#### Authors:
-> **Andres Camilo Tobon Mejia - Github:** [https://github.com/Deepzirox](https://github.com/Deepzirox)  
 
-> **Marlon Aurelio García Morales**  -  **Github:** [https://github.com/clasesucatmarlon](https://github.com/clasesucatmarlon)
